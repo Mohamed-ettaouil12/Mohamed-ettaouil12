@@ -1,15 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1E3A5F,50:1F6FEB,100:1C3C3C&section=header&text=Mohamed%20Ettaouil&fontSize=44&fontColor=ffffff&fontAlignY=33&desc=AI%20Engineer%20%C2%B7%20LLM%2C%20RAG%20%26%20GraphRAG%20%C2%B7%20MLOps%2FLLMOps&descSize=17&descColor=ffffff&descAlignY=53&animation=fadeIn" alt="Mohamed Ettaouil" />
 
+<p align="center">
+  Ingénieur en Intelligence Artificielle, spécialisé dans la conception d'agents LLM, de systèmes RAG/GraphRAG et l'industrialisation MLOps/LLMOps.
+</p>
+
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=880&height=45&lines=Advanced+LLM+agents+%26+RAG+%E2%80%94+LangGraph%2C+CRAG%2C+GraphRAG;MLOps+%2F+LLMOps+%E2%80%94+MLflow%2C+DVC%2C+Docker%2C+CI%2FCD;Continuous+evaluation+%E2%80%94+RAGAS%2C+Langfuse%2C+Evidently+AI;Seeking+a+final-year+AI+internship+%E2%80%94+GenAI+%2F+Data+Science+%2F+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=880&height=45&lines=Advanced+LLM+agents+%26+RAG+%E2%80%94+LangGraph%2C+CRAG%2C+GraphRAG;MLOps+%2F+LLMOps+%E2%80%94+MLflow%2C+DVC%2C+Docker%2C+CI%2FCD;Continuous+evaluation+%E2%80%94+RAGAS%2C+Langfuse%2C+Evidently+AI" alt="Typing SVG" />
 </a>
 
+<a href="https://github.com/Mohamed-ettaouil12"><img src="https://img.shields.io/badge/GitHub-Mohamed--ettaouil12-181717?logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/mohamed-ettaouil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:mohamed_ettaouil@um5.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:mohamed_ettaouil@um5.ac.ma"><img src="https://img.shields.io/badge/Email-mohamed__ettaouil%40um5.ac.ma-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+<a href="tel:+212702432293"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9phone-%2B212%20702%2043%2022%2093-25D366?logo=whatsapp&logoColor=white" alt="Téléphone"></a>
 <img src="https://img.shields.io/badge/ENSIAS-Rabat%2C%20Morocco-1E4E79" alt="ENSIAS">
-<img src="https://img.shields.io/badge/Status-Open%20to%20internship-2E7D32" alt="Open to internship">
 
 </div>
 
@@ -21,8 +26,7 @@ Engineering student in **Artificial Intelligence & Data Science** (ENSIAS, Rabat
 **LLM agents and RAG systems** (LangGraph, CRAG, GraphRAG) and **MLOps/LLMOps industrialization**.
 
 I build end-to-end RAG pipelines: from knowledge graphs (Neo4j, GNN) to deployed, traced and
-continuously evaluated services (Langfuse, RAGAS, CI/CD). I am currently looking for a
-**final-year (PFE) internship** in GenAI / Data Science / MLOps.
+continuously evaluated services (Langfuse, RAGAS, CI/CD).
 
 ---
 
@@ -35,20 +39,6 @@ continuously evaluated services (Langfuse, RAGAS, CI/CD). I am currently looking
 | [**autodrive-rag-multiagents**](https://github.com/Mohamed-ettaouil12/autodrive-rag-multiagents) | Multi-agent RAG (LangGraph: reformulator → supervisor → 5 agents), hybrid BM25+RRF+reranking retrieval, Neo4j knowledge graph, 100 % local (Ollama/Mistral 7B) | Precision@5 **0.87** · RAGAS faithfulness **0.89** |
 | [**mlops-hospitalization-risk**](https://github.com/Mohamed-ettaouil12/mlops-hospitalization-risk) | MLOps platform for hospitalization risk prediction: MLflow, DVC, BentoML, Evidently AI monitoring, Docker deployment | AUC-ROC **0.87** · F1 **0.80** |
 | [**real-time-log-anomaly-detection-gcp**](https://github.com/Mohamed-ettaouil12/real-time-log-anomaly-detection-gcp) | Streaming anomaly detection in system logs with ML, LLM and GCP | Real-time pipeline |
-
----
-
-### GitHub in Numbers
-
-<div align="center">
-<table>
-<tr>
-<td><img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-ettaouil12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" /></td>
-<td><img height="165" src="https://streak-stats.demolab.com?user=Mohamed-ettaouil12&theme=tokyonight&hide_border=true" alt="Streak stats" /></td>
-<td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-ettaouil12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" /></td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -104,7 +94,9 @@ precision@5 **0.81**, sourced citations.
 
 ---
 
-<div align="center">
-<i>Open to final-year internship opportunities — GenAI, Data Science, MLOps.</i><br>
-<a href="mailto:mohamed_ettaouil@um5.ac.ma">mohamed_ettaouil@um5.ac.ma</a> · <a href="https://www.linkedin.com/in/mohamed-ettaouil">LinkedIn</a>
-</div>
+### Contact
+
+- **GitHub** : [github.com/Mohamed-ettaouil12](https://github.com/Mohamed-ettaouil12)
+- **Email** : [mohamed_ettaouil@um5.ac.ma](mailto:mohamed_ettaouil@um5.ac.ma)
+- **Téléphone** : [+212 702 43 22 93](tel:+212702432293)
+- **LinkedIn** : [linkedin.com/in/mohamed-ettaouil](https://www.linkedin.com/in/mohamed-ettaouil)
