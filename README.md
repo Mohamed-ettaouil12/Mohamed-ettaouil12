@@ -13,7 +13,6 @@
 <a href="https://github.com/Mohamed-ettaouil12"><img src="https://img.shields.io/badge/GitHub-Mohamed--ettaouil12-181717?logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/mohamed-ettaouil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mohamed_ettaouil@um5.ac.ma"><img src="https://img.shields.io/badge/Email-mohamed__ettaouil%40um5.ac.ma-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-<a href="tel:+212702432293"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9phone-%2B212%20702%2043%2022%2093-25D366?logo=whatsapp&logoColor=white" alt="Téléphone"></a>
 <img src="https://img.shields.io/badge/ENSIAS-Rabat%2C%20Morocco-1E4E79" alt="ENSIAS">
 
 </div>
@@ -98,5 +97,4 @@ precision@5 **0.81**, sourced citations.
 
 - **GitHub** : [github.com/Mohamed-ettaouil12](https://github.com/Mohamed-ettaouil12)
 - **Email** : [mohamed_ettaouil@um5.ac.ma](mailto:mohamed_ettaouil@um5.ac.ma)
-- **Téléphone** : [+212 702 43 22 93](tel:+212702432293)
 - **LinkedIn** : [linkedin.com/in/mohamed-ettaouil](https://www.linkedin.com/in/mohamed-ettaouil)
