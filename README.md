@@ -1,14 +1,16 @@
-<h1 align="center">Mohamed Ettaouil</h1>
-
-<h3 align="center">
-Ingénieur en Intelligence Artificielle (ENSIAS) · LLM, RAG & GraphRAG · MLOps / LLMOps
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1E3A5F,50:1F6FEB,100:1C3C3C&section=header&text=Mohamed%20Ettaouil&fontSize=44&fontColor=ffffff&fontAlignY=33&desc=Ing%C3%A9nieur%20IA%20%C2%B7%20LLM%2C%20RAG%20%26%20GraphRAG%20%C2%B7%20MLOps%2FLLMOps&descSize=17&descColor=ffffff&descAlignY=53&animation=fadeIn" alt="Mohamed Ettaouil" />
 
 <div align="center">
+
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=880&height=45&lines=Agents+LLM+%26+RAG+avanc%C3%A9s+%E2%80%94+LangGraph%2C+CRAG%2C+GraphRAG;Industrialisation+MLOps+%2F+LLMOps+%E2%80%94+MLflow%2C+DVC%2C+Docker%2C+CI%2FCD;%C3%89valuation+continue+%E2%80%94+RAGAS%2C+Langfuse%2C+Evidently+AI;En+recherche+de+stage+PFE+%E2%80%94+IA+g%C3%A9n%C3%A9rative+%2F+Data+Science+%2F+MLOps" alt="Typing SVG" />
+</a>
+
 <a href="https://www.linkedin.com/in/mohamed-ettaouil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mohamed_ettaouil@um5.ac.ma"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/ENSIAS-Rabat%2C%20Maroc-1E4E79" alt="ENSIAS">
 <img src="https://img.shields.io/badge/Statut-Recherche%20stage%20PFE-2E7D32" alt="Stage PFE">
+
 </div>
 
 ---
@@ -32,6 +34,20 @@ d'un **stage de fin d'études (PFE)** en IA générative / Data Science / MLOps.
 | [**autodrive-rag-multiagents**](https://github.com/Mohamed-ettaouil12/autodrive-rag-multiagents) | RAG agentique multi-agents (LangGraph : reformulateur → superviseur → 5 agents), retrieval hybride BM25+RRF+reranking, graphe Neo4j, 100 % local (Ollama/Mistral 7B) | Précision@5 **0,87** · faithfulness RAGAS **0,89** |
 | [**mlops_hospitalisation**](https://github.com/Mohamed-ettaouil12/mlops_hospitalisation) | Plateforme MLOps de détection du risque d'hospitalisation : MLflow, DVC, BentoML, monitoring Evidently AI, déploiement Docker | AUC-ROC **0,87** · F1 **0,80** |
 | [**real-time-log-anomaly-detection-gcp**](https://github.com/Mohamed-ettaouil12/real-time-log-anomaly-detection-gcp) | Détection d'anomalies dans des logs système en streaming avec ML, LLM et GCP | Pipeline temps réel |
+
+---
+
+### GitHub en chiffres
+
+<div align="center">
+<table>
+<tr>
+<td><img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed-ettaouil12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=fr" alt="Stats GitHub" /></td>
+<td><img height="165" src="https://streak-stats.demolab.com?user=Mohamed-ettaouil12&theme=tokyonight&hide_border=true&locale=fr" alt="Série de commits" /></td>
+<td><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-ettaouil12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Langages" /></td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -80,6 +96,14 @@ précision@5 **0,81**, citations sourcées.
 ### Langues
 
 🇲🇦 Arabe (natif) · 🇫🇷 Français (courant) · 🇬🇧 Anglais (courant)
+
+---
+
+### Graphe de contributions
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Mohamed-ettaouil12/Mohamed-ettaouil12/output/github-contribution-grid-snake.svg" alt="Animation snake des contributions" />
+</div>
 
 ---
 
