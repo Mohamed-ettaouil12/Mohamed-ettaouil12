@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=880&height=45&lines=Advanced+LLM+agents+%26+RAG+%E2%80%94+LangGraph%2C+CRAG%2C+GraphRAG;MLOps+%2F+LLMOps+%E2%80%94+MLflow%2C+DVC%2C+Docker%2C+CI%2FCD;Continuous+evaluation+%E2%80%94+RAGAS%2C+Langfuse%2C+Evidently+AI" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/Mohamed-ettaouil12"><img src="" alt="GitHub"></a>
+<a href="https://github.com/Mohamed-ettaouil12"><img src="https://img.shields.io/badge/GitHub-Mohamed--ettaouil12-181717?logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/mohamed-ettaouil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mohamed_ettaouil@um5.ac.ma"><img src="https://img.shields.io/badge/Email-mohamed__ettaouil%40um5.ac.ma-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/ENSIAS-Rabat%2C%20Morocco-1E4E79" alt="ENSIAS">
